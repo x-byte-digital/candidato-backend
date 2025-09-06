@@ -48,4 +48,4 @@
 
 **Observação:** A implementação da API fica por conta do candidato. Divirta-se programando! 🚀
 
-**“Pode mandar o fork ou só avisar pelo e-mail ([applicant@xbyte.company](mailto:applicant@xbyte.company)) ou WhatsApp (+55 83 98110-0098) quando concluir.”**
+**Pode mandar o fork ou só avisar pelo e-mail ([applicant@xbyte.company](mailto:applicant@xbyte.company)) ou WhatsApp (+55 83 98110-0098) quando concluir.**
